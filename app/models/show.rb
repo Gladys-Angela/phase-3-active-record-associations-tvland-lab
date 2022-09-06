@@ -9,5 +9,4 @@ def actors_list
 end
       
 end
-      
-end
+end 
